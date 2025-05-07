@@ -1,0 +1,7 @@
+mcp-use
+langchain-google-genai
+fastapi
+uvicorn
+python-dotenv
+streamlit
+fastembed
